@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there! I'm Nadire Us...:wave:
-- :telescope: I’m currently working on  Machine Learning with Python and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features)
+- :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadire-us/)
