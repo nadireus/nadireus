@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://www.google.com/search?q=scikit+learn+logo&client=opera&sxsrf=AOaemvLGH-wJcdZ_Y86czB5u4K2mYpXDyA:1642801972230&tbm=isch&source=iu&ictx=1&vet=1&fir=8cij3GdoNwkDdM%252C7I58Ao5Wx7nYYM%252C_%253BJ2XwYaxgIDVaUM%252Ca40skZFPhK5T_M%252C_%253BsvyM3QiC4X_W3M%252CRmlBc2nPj1HghM%252C_%253Bq85TDjC6rXZkDM%252CRNQkF-irHAaVbM%252C_%253BIpCfKUXa3XMkEM%252C968EFI-DYjwfBM%252C_%253B8nsw54rLeXEwJM%252Ck-UYgFJBdm-uSM%252C_%253BCJ8Ir-h_xfIsvM%252CmQq2RBPr4tvffM%252C_%253B8JKud5ZhgSdIoM%252CLluaUlJVWUa-GM%252C_%253BTOSbApkBSA8H6M%252CFmTBEtSTPgc84M%252C_%253BonGCN8x5deiY1M%252CpJjl-GHaipurIM%252C_%253BGzqESj9tkUUwWM%252C8dx3ZNq8Xn0DeM%252C_%253BPWJjNU-1Y_tzGM%252CWFMdbCDaHgh67M%252C_&usg=AI4_-kTmOzEE65W3NlRGJ9QR8JHgW4FKaQ&sa=X&ved=2ahUKEwiB9vWf6sP1AhUF57sIHdXsClcQ9QF6BAgTEAE&biw=1880&bih=970&dpr=1#imgrc=BjFCCNUiRgTWHM" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit learn" width="120"/> </a>
 
 ## 💻 Languages
 
