@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2> 👋  ## Hi there! I'm Nadire Us...:wave: ✨ </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
- <img align="right" alt="GIF" src="https://giphy.com/gifs/rollercoaster-chart-giflytics-jakQnxhPwrbOdEZDul/source.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://giphy.com/gifs/rollercoaster-chart-giflytics-jakQnxhPwrbOdEZDul" width="500" height="320" />
  
 
 - 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
