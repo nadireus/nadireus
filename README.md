@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 <h2> 👋  ## Hi there! I'm Nadire Us...:wave: ✨ </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://giphy.com/gifs/rollercoaster-chart-giflytics-jakQnxhPwrbOdEZDul/source.gif" width="500" height="320" />
+ 
 
 - 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
 - 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 - 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
 - 💬  Ask me about: Anything!
-- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/nadire-us/)
+- 📫  How to reach me: 
 
 <a href="https://www.linkedin.com/in/nadire-us/">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
@@ -40,6 +42,7 @@ Here are some ideas to get you started:
 </a>
 
 
+##
 ##
 
 
