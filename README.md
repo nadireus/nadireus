@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> 👋  ## Hi there! I'm Nadire Us...:wave: ✨ </h2>
+<h2> 👋   Hi there! I'm Nadire Us...:wave: ✨ </h2>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
 
