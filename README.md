@@ -39,8 +39,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Medium"  src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
 
-<!---
-**nadireus/nadireus** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -77,3 +76,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=nadireus&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadireus&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadireus&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<!---
+**nadireus/nadireus** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
