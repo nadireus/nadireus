@@ -14,12 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there! I'm Nadire Us...:wave:
-- :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
-- :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-## :man::woman: Social
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadire-us/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@nadireoztiftik)
+
+
+
+
+
+<h2> 👋  ## Hi there! I'm Nadire Us...:wave: ✨ </h2>
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/source.gif" width="500" height="320" />
+
+- 👀  - :telescope: I’m currently working on  Machine Learning, Deep Learning, NLP and Data Analysis (Matplotlib | Seaborn | Pandas's Own Visualization Features | Tableau )
+- 🌱 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
+- 💞️  Slowly and steadily, I'm trying to be better than yesterday😉
+- 💬  Ask me about: Anything!
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/nadire-us/)
+
+<a href="https://www.linkedin.com/in/nadire-us/">
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+<a href="mailto:nadireoztiftik@gmail.com">
+  <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+<a href="(https://medium.com/@nadireoztiftik)/">
+  <img align="left" alt="Medium"  src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
+</a>
+
+<!---
+**nadireus/nadireus** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 ## 💻 Data Visualization
